@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1696009753472" clover="3.2.0">
-  <project timestamp="1696009753473" name="All files">
+<coverage generated="1696014607744" clover="3.2.0">
+  <project timestamp="1696014607744" name="All files">
     <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="3" coveredelements="1" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
     <file name="Header.tsx" path="/home/ane-gurjao/Documentos/projects/hubla-project/src/components/Header.tsx">
       <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
