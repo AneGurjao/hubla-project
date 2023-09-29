@@ -37,6 +37,7 @@ Thanks for the opportunity and I apologize if I missed any requirements, this we
 
 ## Gif the application
 
-https://www.loom.com/share/d446acce4f2d4eba8f97e69da7dcab0c?sid=01da8483-63c0-4e92-8bda-0eb30680533e
+
+![gif-project](https://github.com/AneGurjao/hubla-project/assets/28873150/d6066e4e-6ecb-4b72-ba34-00ab8b326450)
 
 
